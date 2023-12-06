@@ -1,0 +1,5 @@
+npm init -y //criar o arquivo package.json
+npm install --save-dev webpack webpack-cli// cria a pastas nodes modules com os pacotes dentro
+npx webpack //cria o build do webpack (pasta dist)
+npx webpack
+
